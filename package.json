@@ -2,7 +2,7 @@
   "name": "pratta-wa-bot",
   "version": "1.0.0",
   "description": "Pratta Thailand WhatsApp Bot",
-  "main": "wa_bot.js",
+  "main": "bot.js",
   "scripts": {
     "start": "node wa_bot.js"
   },

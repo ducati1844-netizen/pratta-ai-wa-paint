@@ -4,7 +4,7 @@
   "description": "Pratta Thailand WhatsApp Bot",
   "main": "bot.js",
   "scripts": {
-    "start": "node wa_bot.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "express": "^4.18.2",
